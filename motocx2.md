@@ -1,10 +1,15 @@
 # Motorola CX2 router vulnerabilities
 
 CVE-2020-21937
+
 CVE-2020-21936
+
 CVE-2020-21935
+
 CVE-2020-21934
+
 CVE-2020-21933
+
 CVE-2020-21932
 
 ## Description
